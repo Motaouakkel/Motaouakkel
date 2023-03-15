@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[palce](url)** -->
+- 🔭 I'm currently working as full stack developer at **[WEBPICK](https://webpick.info/)**
 
-- 🌱 I’m currently learning **Computer Systems and Software Engineering.**
+- 🌱 I was learning **Computer Systems and Software Engineering.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://coderkille.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://motaouakkel.com)**
 
 - 📫 How to reach me **Motaouakkel10@gmail.com**
 
