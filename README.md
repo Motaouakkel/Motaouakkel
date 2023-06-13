@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working as full stack developer at **[LEANSOFT](https://webpick.info/](https://leansoft.ma/)**
+- 🔭 I'm currently working as full stack developer at **[LEANSOFT](https://leansoft.ma/)**
 
 - 🌱 I was learning **Computer Systems and Software Engineering.**
 
