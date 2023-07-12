@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://motaouakkel.com)**
 
-- 📫 How to reach me **Motaouakkel10@gmail.com**
+- 📫 How to reach me **Motaouakkel10@gmail.com** or **[contact me](https://motaouakkel.com/#contact-section)** 
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
