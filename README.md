@@ -77,14 +77,38 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motaouakkel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 </p>
 
-<!-- ═══════════════════════════════════ TROPHIES ═══════════════════════════════════ -->
+<!-- ═══════════════════════════════════ FEATURED PROJECTS ═══════════════════════════════════ -->
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">🌟 Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Motaouakkel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+  <a href="https://github.com/Motaouakkel/Quran-API">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Motaouakkel&repo=Quran-API&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=FF6AD5&text_color=c9d1d9&bg_color=0d1117" alt="Quran-API" />
   </a>
+  <a href="https://github.com/Motaouakkel/chat-app-flutter">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Motaouakkel&repo=chat-app-flutter&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=FF6AD5&text_color=c9d1d9&bg_color=0d1117" alt="chat-app-flutter" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Motaouakkel/Stock-Management-System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Motaouakkel&repo=Stock-Management-System&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=FF6AD5&text_color=c9d1d9&bg_color=0d1117" alt="Stock-Management-System" />
+  </a>
+  <a href="https://github.com/Motaouakkel/OTP-Email-Sender">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Motaouakkel&repo=OTP-Email-Sender&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=FF6AD5&text_color=c9d1d9&bg_color=0d1117" alt="OTP-Email-Sender" />
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════ SUMMARY CARDS ═══════════════════════════════════ -->
+
+<h3 align="center">🧩 Contribution Summary</h3>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motaouakkel&theme=tokyonight" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Motaouakkel&theme=tokyonight" alt="most commit language" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Motaouakkel&theme=tokyonight&utcOffset=1" alt="productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Motaouakkel&theme=tokyonight" alt="summary stats" />
 </p>
 
 <!-- ═══════════════════════════════════ ACTIVITY GRAPH ═══════════════════════════════════ -->
