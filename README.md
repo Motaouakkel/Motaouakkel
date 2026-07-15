@@ -1,76 +1,124 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- ═══════════════════════════════════ HEADER ═══════════════════════════════════ -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Motaouakkel</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
+<a href="https://github.com/Motaouakkel">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6A5ACD,100:FF6AD5&height=220&section=header&text=Mohamed%20Motaouakkel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Essaouira,%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=18&descAlignY=58" alt="header"/>
+</a>
 
-
-## 🙋‍♂️ About Me
-
-- 🔭 I'm currently working as Project Manager at **[LEANSOFT](https://leansoft.ma/)**
-
-- 🌱 I was learning **Computer Systems and Software Engineering.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://motaouakkel.com)**
-
-- 📫 How to reach me **Motaouakkel10@gmail.com** or **[contact me](https://motaouakkel.com/#contact-section)** 
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="35"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="35"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<!-- ═══════════════════════════════════ TYPING ═══════════════════════════════════ -->
 
 <p align="center">
-    <a href="https://github.com/Motaouakkel/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Motaouakkel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://motaouakkel.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%26+React+Native+Engineer+%F0%9F%93%B1;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;Project+Manager+%40+LEANSOFT;Turning+coffee+into+code+since+day+one+%E2%98%95" alt="Typing SVG" />
+  </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ═══════════════════════════════════ BADGES ═══════════════════════════════════ -->
 
-  <br/>
-    <a href="https://github.com/Motaouakkel/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Motaouakkel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Motaouakkel/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motaouakkel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/el-motaouakeel/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/motaouakkel10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/med_kkell00/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/mohamedissa.motaouakkel"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Motaouakkel&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="views" />
+  <a href="https://github.com/Motaouakkel?tab=followers">
+    <img src="https://img.shields.io/github/followers/Motaouakkel?label=Followers&style=for-the-badge&color=6A5ACD&logo=github" alt="followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-FF6AD5?style=for-the-badge" alt="focus" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Motaouakkel">
-</a>
-<a href="https://github.com/Motaouakkel?tab=followers"><img src="https://img.shields.io/github/followers/Motaouakkel?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- ═══════════════════════════════════ ABOUT ═══════════════════════════════════ -->
+
+<h3 align="center">🚀 About Me</h3>
+
+<p align="center">
+  🌍 Passionate <b>Full Stack Developer</b> from <b>Essaouira, Morocco</b><br/>
+  💼 Project Manager <b>@ LEANSOFT</b> — shipping mobile & web products end-to-end<br/>
+  📱 I build with <b>Flutter</b>, <b>React Native</b>, <b>Spring Boot</b> & <b>Node.js</b><br/>
+  🧠 Currently deep-diving into <b>system design</b> & <b>scalable backends</b><br/>
+  ⚡ Fun fact: I love turning messy real-world problems into clean, working apps
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════ CONNECT ═══════════════════════════════════ -->
+
+<p align="center">
+  <a href="https://motaouakkel.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="portfolio"/></a>
+  <a href="https://linkedin.com/in/el-motaouakeel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://twitter.com/motaouakkel10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://instagram.com/med_kkell00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://facebook.com/mohamedissa.motaouakkel"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════ TECH STACK ═══════════════════════════════════ -->
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,flutter,dart&theme=dark" alt="stack row 1" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,mongodb,firebase&theme=dark" alt="stack row 2" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,docker,postman,linux&theme=dark" alt="stack row 3" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════ STATS ═══════════════════════════════════ -->
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Motaouakkel&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=FF6AD5&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=Motaouakkel&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6AD5&currStreakLabel=00D9FF" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motaouakkel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+</p>
+
+<!-- ═══════════════════════════════════ TROPHIES ═══════════════════════════════════ -->
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Motaouakkel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════ ACTIVITY GRAPH ═══════════════════════════════════ -->
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Motaouakkel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=FF6AD5&point=ffffff&area=true" alt="activity graph" />
+</p>
+
+<!-- ═══════════════════════════════════ SNAKE ═══════════════════════════════════ -->
+
+<h3 align="center">🐍 Watch My Contributions Get Eaten</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Motaouakkel/Motaouakkel/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Motaouakkel/Motaouakkel/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Motaouakkel/Motaouakkel/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════════════════ QUOTE ═══════════════════════════════════ -->
+
+<h3 align="center">💭 Dev Quote of the Day</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+<!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AD5,50:6A5ACD,100:00D9FF&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Motaouakkel">Motaouakkel</a> — thanks for stopping by!</i></p>
